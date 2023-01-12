@@ -1,7 +1,7 @@
 ### Hi there! I'm Gustavo Ruiz a developer in progress 👋
 <div align="center">
   <a href="https://github.com/DevRuiz18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gussruiz&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gussruiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gussruiz&layout=compact&theme=gotham"/>
   
 </div>
